@@ -1,0 +1,26 @@
+
+@font-face {
+    font-family: "rioGrande";
+         src: url("./Fonts/RioGrande.ttf");
+    } 
+
+body{
+    background-image: url("./Patterns/topography.png"); 
+    overflow: hidden;
+}
+
+.western{
+    text-align: center;
+    font-size: 70px;
+    font-family: "rioGrande";
+}
+
+header table{
+    align-content: center;
+    align-items: center;
+}
+
+.round{
+    border-radius: 50%;
+}
+
